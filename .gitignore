@@ -9,6 +9,9 @@
 .local.vimrc
 .ycm_extra_conf.py*
 Thumbs.db
+inter_athena.conf
+_commandes.txt
+gestion.sh
 
 # /
 /*_fifo
